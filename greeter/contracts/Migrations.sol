@@ -1,4 +1,8 @@
-pragma solidity >=0.4.22 <0.7.0;
+// SPDX-License-Identifier: UNIDENTIFIED
+
+//pragma solidity >=0.4.22 <0.7.0;
+pragma solidity >= 0.4.0 < 0.9.0;
+
 
 contract Migrations {
   address public owner;
